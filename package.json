@@ -1,0 +1,25 @@
+{
+  "name": "word-slug",
+  "version": "0.0.0",
+  "description": "Generates URL slugs out of random words",
+  "main": "word-slug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download13/word-slug.git"
+  },
+  "keywords": [
+    "slug",
+    "word",
+    "random",
+    "friendly"
+  ],
+  "author": "Erin Dachtler <download333@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/download13/word-slug/issues"
+  },
+  "homepage": "https://github.com/download13/word-slug#readme"
+}
