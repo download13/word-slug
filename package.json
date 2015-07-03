@@ -1,8 +1,8 @@
 {
   "name": "word-slug",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generates URL slugs out of random words",
-  "main": "word-slug.js",
+  "main": "lib/word-slug.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
